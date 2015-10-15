@@ -1,4 +1,4 @@
 # carandclassic
 Simple scraping project
 
-See http://carandclassicscrap.appspot.com/ for a running instance 
+See [carandclassicscrap.appspot.com] (http://carandclassicscrap.appspot.com/) for a running instance.
